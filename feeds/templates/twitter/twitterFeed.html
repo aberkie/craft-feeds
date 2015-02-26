@@ -1,0 +1,15 @@
+{#
+# Twitter Feed Template
+# Author: Aaron Berkowitz (@asberk)
+# https://github.com/aberkie/feeds
+#}
+
+
+<a class="twitter-timeline"
+  href="{{params['href']}}"
+  {% for key,val in params %}
+  {{key}}="{{val}}" 
+  {% endfor %} 
+  >
+{{params['text']}}
+</a>
