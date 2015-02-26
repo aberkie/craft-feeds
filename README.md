@@ -52,4 +52,4 @@ noborders: Removes all borders within the widget (between Tweets, cards, around 
 * Lists: To render a list, you must specify the list owner—data-list-owner-screen-name or data-list-owner-id—and a list identifier, data-list-id or data-list-slug.
 
 ##Roadmap
-I hope to add several more feeds in the nearfuture, as well as a custom field type to allow content creators to add thier own options without the need for a developer to create a bunch of custom fields.
+I hope to add several more feeds in the near future, as well as a custom field type to allow content creators to add thier own options without the need for a developer to create a bunch of custom fields.
